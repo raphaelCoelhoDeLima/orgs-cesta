@@ -24,13 +24,7 @@ export default function Cesta({topo, detalhes, itens}){
                 </>
                 
             }}/>
-            
-    
-  
-        
-       
-  
-    </>
+   </>
 }
 
 const estilos = StyleSheet.create({
